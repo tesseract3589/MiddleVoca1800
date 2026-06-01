@@ -92,6 +92,28 @@ def make_test(mode):
     except Exception as e:
         messagebox.showerror("오류", str(e))
 
+def show_word_list():
+    try:
+        voca_num = int(entry_voca.get())
+
+        words = load_word_list(voca_num)
+
+        text_area.delete("1.0", tk.END)
+
+        text_area.insert(
+            tk.END,
+            f"[단어장 {voca_num} 전체 목록]\n\n"
+        )
+
+        for item in words:
+            text_area.insert(
+                tk.END,
+                f'{item["num"]}. {item["word"]} : {item["meaning"]}\n'
+            )
+
+    except Exception as e:
+        messagebox.showerror("오류", str(e))
+
 
 # 단어장 번호
 
@@ -129,6 +151,15 @@ btn2 = tk.Button(
 )
 
 btn2.pack(side=tk.LEFT, padx=5)
+
+btn3 = tk.Button(
+    frame_btn,
+    text="전체 단어 보기",
+    width=15,
+    command=show_word_list
+)
+
+btn3.pack(side=tk.LEFT, padx=5)
 
 # 창 뜨게 만드는 코드
 root.mainloop()
