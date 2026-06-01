@@ -1,0 +1,60 @@
+1 lung 폐
+2 passport 여권
+3 photo 사진
+4 envelope 봉투
+5 attendant 수행원, 참석자
+6 appointment 약속
+7 midnight 자정
+8 skyscraper 고층건물
+9 chimney 굴뚝
+10 fence 울타리
+11 evidence 증거
+12 feature 특징, 주연시키다
+13 flavor 맛, 맛을 내다
+14 leap 도약하다
+15 leak 새어나오다
+16 scream 비명을 지르다
+17 refresh 충전하다
+18 occur 일어나다
+19 obtain 얻다
+20 intend 의도하다
+21 lower 낮추다
+22 lean 기대다
+23 equal 같은, 평등한
+24 separate 분리하다
+25 hard-working 열심히 일하는
+26 hopeless 희망 없는
+27 various 다양한
+28 raw 날것의
+29 portable 휴대할 수 있는
+30 rarely 거의 ~아닌
+31 passenger 승객
+32 continent 대륙
+33 port 항구
+34 cooperation 협력, 협동
+35 competition 경쟁, 경연
+36 convenience 편의, 편리
+37 curiosity 호기심
+38 suicide 자살하다
+39 bullet 총알
+40 backbone 등뼈, 척추
+41 descendant 자손, 후예
+42 collection 수집, 소장품
+43 desire 바라다, 갈망하다
+44 export 수출하다
+45 stare 응시하다
+46 deceive 속이다
+47 commit 저지르다
+48 twist 비틀다
+49 decorate 장식하다
+50 convert 전환하다
+51 tend ~하는 경향이 있다
+52 firm 단호한, 회사
+53 senior 손위의, 선배의
+54 major 주요한
+55 minor 사소한, 소수의
+56 individual 개인, 개인의
+57 grand 웅대한, 장엄한
+58 odd 홀수의, 이상한
+59 awkward 서투른, 어색한
+60 directly 직접적으로

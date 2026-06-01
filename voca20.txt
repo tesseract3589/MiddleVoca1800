@@ -1,0 +1,60 @@
+1 landscape 풍경, 경치
+2 construction 건설
+3 mood 기분, 감정
+4 excitement 흥분, 흥미
+5 complaint 불평
+6 confidence 자신감
+7 invasion 침입, 침략
+8 container 용기, 그릇
+9 ash 재
+10 bar 방망이, 빗장
+11 contact 접촉하다
+12 benefit 이익, 이득
+13 damage 피해, 손해
+14 supply 공급하다
+15 demand 요구하다
+16 lack 부족, 부족하다
+17 conflict 갈등
+18 spin 회전하다
+19 scratch 긁다, 할퀴다
+20 suppose 가정하다
+21 refer 참고하다
+22 ruin 파멸, 폐허
+23 rid 제거하다
+24 tight 꼭 끼는, 빈틈없는
+25 brilliant 훌륭한, 총명한
+26 specific 구체적인
+27 unusual 유별난, 비범한
+28 negative 부정적인
+29 royal 왕족의
+30 partly 부분적으로
+31 happiness 행복
+32 freedom 자유
+33 independence 독립, 자립
+34 imagination 상상, 상상력
+35 importance 중요
+36 speech 말, 연설
+37 silence 침묵, 고요
+38 invitation 초대
+39 exhibition 전시, 전시회
+40 sculpture 조각
+41 region 지방, 지역
+42 position 자세, 위치
+43 research 조사하다
+44 aim 목표, 겨냥하다
+45 moral 도덕, 도덕적인
+46 extra 여분의
+47 arrange 배열하다, 조율하다
+48 advise 충고하다
+49 recommend 추천하다
+50 declare 선언하다
+51 prove 증명하다
+52 injure 다치게 하다
+53 connect 연결하다
+54 hug 끌어 안다
+55 foggy 안개 낀
+56 neat 깔끔한, 단정한
+57 loose 느슨한, 헐거운
+58 endangered 위기에 처한
+59 bound 경계, 범위
+60 recently 최근에

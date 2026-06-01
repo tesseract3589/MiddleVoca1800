@@ -1,0 +1,60 @@
+1 captain 선장, 주장
+2 stranger 낯선 사람
+3 statue 동상
+4 spirit 정신
+5 scenery 배경, 풍경
+6 gesture 몸짓
+7 pole 기둥
+8 rubber 고무
+9 structure 구조
+10 root 뿌리
+11 schedule 일정
+12 tour 관광하다
+13 charge 충전하다, 부과하다
+14 decrease 줄어들다
+15 review 복습하다
+16 vote 투표하다
+17 attend 참석하다
+18 discuss 토론하다
+19 settle 정착하다
+20 elect 선거하다
+21 achieve 이루다
+22 appreciate 감사하다, 인정하다
+23 brave 용감한
+24 cheap 값싼
+25 classical 고전의
+26 familiar 친숙한
+27 unknown 미지의
+28 uncomfortable 불편한
+29 simply 단순히
+30 anyway 어쨌든
+31 population 인구
+32 coast 해변
+33 bucket 양동이
+34 cart 수레
+35 cage 우리
+36 screen 가리다, 차단하다
+37 kite 연
+38 autumn 가을
+39 breeze 산들바람
+40 mess 혼란, 엉망
+41 litter 더럽히다
+42 joke 농담
+43 hike 걷다
+44 fear 두려움
+45 offer 제공(제안)하다
+46 remain 여전히 ~이다
+47 repair 수리하다
+48 blank 공허한, 빈칸
+49 final 마지막의
+50 public 공공의
+51 bend 구부리다
+52 float 뜨다, 표류하다
+53 bark 짖다, 나무껍질
+54 concentrate 집중하다
+55 dead 죽은
+56 personal 개인적인
+57 historic 역사적인
+58 western 서쪽의
+59 ahead 앞에, 앞서서
+60 exactly 정확히

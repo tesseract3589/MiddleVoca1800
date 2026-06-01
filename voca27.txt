@@ -1,0 +1,60 @@
+1 appetite 식욕
+2 beast 짐승
+3 palm 손바닥
+4 lab 연구실, 실험실
+5 institute 교육기관
+6 journalism 언론
+7 outline 개요, 윤곽
+8 crosswalk 교차로
+9 lyrics 가사
+10 charm 매력, 주문
+11 force 힘, 동력
+12 function 기능, 기능하다
+13 contrast 대조, 대비
+14 assist 돕다, 지원하다
+15 employ 고용(사용)하다
+16 govern 통치(지배)하다
+17 entertain 즐겁게 하다
+18 criticize 비판하다
+19 indicate 가리키다
+20 react 반응하다
+21 dare 감히 ~하다
+22 obvious 명백한, 뻔한
+23 satisfactory 만족
+24 confident 자신감 있는
+25 proper 적절한
+26 typical 전형적인
+27 outer 외부의
+28 extracurricular 과외의
+29 underwater 수중의
+30 fairly 공정히, 꽤, 상당히
+31 conductor 지휘자
+32 court 법정, 경기장
+33 dictation 명령, 지시, 받아쓰기
+34 jam 잼, 정체
+35 string 끈, 줄
+36 salary 급여
+37 scale 규모, 비늘, 저울
+38 spot 지점, 식별하다
+39 shame 부끄러움, 수치
+40 chemistry 화학
+41 import 수입하다
+42 load 짐을 싣다
+43 link 연결하다
+44 assistant 조수, 보조
+45 liquid 액체
+46 solid 고체, 딱딱한
+47 evil 악, 악의
+48 snap 덥석 물다, 낚아채다
+49 possess 소유하다
+50 contribute 기여(공헌)하다
+51 recover 회복하다
+52 ignore 무시하다
+53 diligent 근면한, 성실한
+54 pale 창백한
+55 brief 간단한, 간략한
+56 rare 드문, 희귀한
+57 genetic 유전의, 유전자의
+58 organic 유기농의
+59 holy 신성한
+60 unfortunately 불행히도

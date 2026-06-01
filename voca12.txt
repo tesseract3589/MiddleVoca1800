@@ -1,0 +1,60 @@
+1 host 주인, 진행자
+2 athlete 운동선수
+3 audience 청중, 관객
+4 temperature 온도
+5 cell 세포, 전지
+6 transportation 운송, 수송
+7 bowl 그릇
+8 brick 벽돌
+9 planet 행성
+10 tail 꼬리
+11 wing 날개
+12 purpose 목적, 용도
+13 decision 결정
+14 frighten 깜짝 놀라게 하다
+15 scare 두렵게 하다
+16 slip 미끄러지다
+17 melt 녹다
+18 pollute 오염시키다
+19 affect 영향을 주다
+20 depend 의지하다
+21 manage 관리하다
+22 fit 적당한, 건강한
+23 correct 수정하다
+24 surprising 놀라운
+25 active 활동적인, 적극적인
+26 colorful 화려한
+27 wet 젖은
+28 wild 야생의
+29 daily 매일의
+30 straight 곧은, 직선의
+31 god 신
+32 guest 손님
+33 diver 잠수부
+34 blood 피
+35 pool 웅덩이
+36 temple 사원, 신전
+37 thought 생각
+38 crop 곡식, 작물
+39 sheet (종이 등의) 장
+40 quarter 1/4
+41 crowd 군중
+42 care 관심을 갖다
+43 strike 치다, 파업
+44 relative 상대적인, 친척
+45 patient 인내심이 있는, 환자
+46 gain 얻다
+47 provide 제공하다
+48 dig 파다
+49 explore 탐구(탐험)하다
+50 warn 경고하다
+51 recognize 인식(인정)하다
+52 celebrate 축하하다
+53 stupid 멍청한
+54 helpful 유용한
+55 convenient 편리한
+56 impossible 불가능한
+57 medical 의학의
+58 outdoor 야외
+59 forever 영원히
+60 indeed 실제로

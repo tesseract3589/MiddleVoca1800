@@ -1,0 +1,60 @@
+1 anniversary 기념일
+2 nutrient 영양분
+3 grain 곡물
+4 document 문서
+5 license 면허, 면허증
+6 blackboard 칠판
+7 chalk 분필
+8 department 부서
+9 fortune 운, 큰 재산
+10 resource 자원
+11 hunger 배고픔, 굶주림
+12 error 오류, 실수
+13 jail 감옥
+14 protein 단백질
+15 request 요청, 요청하다
+16 bomb 폭탄
+17 poison 독
+18 wound 상처, 부상
+19 chase 쫓다, 추적하다
+20 afford ~할 여유가 있다
+21 absorb 흡수하다
+22 attach 부착(첨부)하다
+23 cooperate 협력하다
+24 defend 방어하다
+25 be aware of ~를 인식하다
+26 precious 귀중한
+27 political 정치적인
+28 nuclear 핵의, 원자력의
+29 indoor 실내의
+30 aloud 크게
+31 atmosphere 대기권, 분위기
+32 voyage 여행, 항해
+33 navy 해군
+34 instrument 도구, 악기
+35 tube 관, 튜브
+36 leather 가죽
+37 jewel 보석
+38 mud 진흙
+39 target 목표, 과녁
+40 aspect 측면
+41 anger 분노
+42 iron 철, 다림질하다
+43 comment 논평하다
+44 protest 항의하다
+45 concern 염려하다
+46 dump 버리다, 폐기하다
+47 enable ~할 수 있게 하다
+48 annoy 괴롭히다
+49 insist 주장(고집)하다
+50 combine 조합(결합)하다
+51 owe 빚을 지다
+52 cease 중단하다
+53 awake 깨어나다
+54 idle 게으른, 한가한
+55 previous 이전의
+56 efficient 효율적인
+57 rough 거친, 험한
+58 severe 혹독한
+59 romantic 낭만적인
+60 sometime 언젠가

@@ -1,0 +1,60 @@
+1 citizen 시민
+2 fare 요금, 운임
+3 tale 이야기, 설화
+4 suggestion 제안, 시사
+5 responsibility 책임, 책임감
+6 risk 위험
+7 intelligence 지능
+8 viewpoint 관점
+9 scissors 가위
+10 shell 껍질
+11 surface 표면, 떠오르다
+12 version 판, 버전
+13 account 계산, 계좌
+14 influence 영향을 주다
+15 fasten 묶다, 조이다
+16 manufacture 제조하다
+17 hire 고용하다
+18 examine 시험하다
+19 explode 폭발하다
+20 erase 지우다
+21 interrupt 가로막다, 중단하다
+22 deny 부인하다
+23 former 이전의
+24 clever 영리한, 영악한
+25 distant 거리
+26 faint 희미한, 기절한
+27 double 두 배의
+28 entire 전체의
+29 frequent 빈번한
+30 possibly 아마도
+31 author 작가
+32 secretary 비서, 서기, 장관
+33 beggar 거지
+34 shepherd 양치기
+35 fable 우화
+36 tongue 혀
+37 departure 출국
+38 entrance 입구
+39 method 방법
+40 aptitude 적성
+41 victory 승리
+42 chain 사슬, 연쇄
+43 billion 10억
+44 blossom 꽃, 꽃을 피우다
+45 praise 칭찬하다
+46 wind 바람
+47 require 요구하다
+48 tremble 떨다, 흔들리다
+49 starve 굶주리다
+50 quit 그만두다
+51 spoil 망치다
+52 punish 벌하다
+53 translate 번역하다, 바꾸다
+54 wealthy 부유한
+55 dependent 의존적인
+56 mild 온화한
+57 harsh 혹독한
+58 informal 비공식적인
+59 lunar 달의
+60 overseas 해외의

@@ -1,0 +1,60 @@
+1 health 건강
+2 holiday 휴일
+3 gift 선물, 재능
+4 field 분야, 들판
+5 site 위치, 유적
+6 goal 목표
+7 effect 효과
+8 sign 신호, 징조
+9 report 보고하다
+10 order 주문, 명령, 질서
+11 experience 경험하다
+12 result 결과
+13 ride 타다, 주행하다
+14 wish 소망하다
+15 human 인간
+16 past 과거, 지난
+17 carry 휴대하다, 옮기다
+18 draw 그리다, 당기다
+19 spend 쓰다, 보내다
+20 wait 기다리다
+21 decide 결정하다
+22 choose 고르다
+23 true 진실한
+24 popular 인기 있는
+25 difficult 어려운
+26 foreign 외국의
+27 able 능력 있는
+28 full 가득 찬
+29 usually 대게
+30 never 결코 ~아닌
+31 brain 두뇌
+32 voice 목소리
+33 opinion 의견
+34 age 나이, 노화
+35 century 세기, 100년
+36 event 사건, 행사
+37 dish 접시, 요리
+38 toy 장난감, 장난치다
+39 subway 지하철
+40 hundred 백(100)
+41 thousand 천(1,000)
+42 rest 쉬다, 나머지
+43 waste 낭비하다, 쓰레기
+44 surprise 놀라게 하다
+45 bear 견디다, 낳다
+46 fight 싸우다
+47 buy 사다, 구매하다
+48 sell 팔다, 팔리다
+49 follow 따르다, 추적하다
+50 miss 놓치다, 그리워하다
+51 close 가까운, 닫다
+52 free 자유로운, 무료의
+53 upset 언짢은
+54 healthy 건강한
+55 delicious 맛있는
+56 sad 슬픈
+57 careful 주의 깊은
+58 ready 준비 된
+59 away 멀리, 떨어진
+60 however 하지만

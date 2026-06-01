@@ -1,0 +1,60 @@
+1 client 고객
+2 clown 광대
+3 immigrant 이주자, 이민자
+4 dragon 용
+5 nail 손톱, 못
+6 baggage 짐, 수화물
+7 label 라벨을 붙이다
+8 coal 석탄
+9 bubble 거품
+10 bug 벌레, 곤충
+11 dawn 새벽
+12 detail 세부사항
+13 plenty 많은
+14 delight 기쁨, 즐거움
+15 dispute 논쟁(반박)하다
+16 flame 불꽃, 화염
+17 flash 번쩍이다, 섬광
+18 regret 후회하다
+19 bless 축복하다
+20 spell 철자를 쓰다
+21 surround 둘러싸다
+22 swear 맹세하다
+23 wander 헤매다, 방랑하다
+24 generous 관대한
+25 grateful 감사하는
+26 instant 즉각적인
+27 medium 중간, 매체
+28 needy 가난한, 어려운
+29 illegal 불법적인
+30 either 또한, 역시
+31 counselor 고문, 상담자
+32 opportunity 기회
+33 literature 문학
+34 illusion 환상, 환각
+35 leisure 여가
+36 shuttle 왕복선
+37 location 위치
+38 laundry 세탁물
+39 germ 병균
+40 length 길이
+41 relation 관계
+42 similarity 유사
+43 sort 분류하다
+44 rental 임대, 임대료
+45 commercial 상업적인
+46 ideal 이상적인
+47 complex 복잡한
+48 junior 손아래의, 후배의
+49 shut 닫다, 막다
+50 bore 지루하게 하다
+51 compose 작문(작곡)하다
+52 mend 고치다, 수선하다
+53 inform 알리다, 공지하다
+54 calculate 계산하다
+55 ordinary 평범한
+56 selfish 이기적인
+57 strict 엄격한
+58 sour 신, 신맛의
+59 solar 태양의
+60 neither 둘 다 ~아닌

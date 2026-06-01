@@ -1,0 +1,60 @@
+1 sense 감각, 감지하다
+2 pleasure 기쁨, 즐거움
+3 image 영상, 이미지
+4 map 지도
+5 project 계획, 영사하다
+6 traffic 교통
+7 safety 안전
+8 spaceship 우주선
+9 rainbow 무지개
+10 million 백만
+11 model 모범, 모형
+12 type 유형
+13 block 막다, 차단하다
+14 seat 앉히다
+15 touch 만지다, 감동시키다
+16 wonder 의아해하다
+17 magic 마법의, 마술
+18 secret 비밀, 비결
+19 general 일반적인, 장군
+20 prepare 준비하다
+21 imagine 상상하다
+22 forget 잊다
+23 develop 발전하다, 계발하다
+24 recycle 재활용하다
+25 several 몇몇의
+26 funny 재미있는
+27 safe 안전한, 금고
+28 enough 충분한
+29 loud 큰, 시끄러운
+30 far 먼, 멀리 떨어진
+31 truth 진실
+32 success 성공
+33 friendship 우정
+34 being 존재
+35 goods 상품
+36 coin 동전
+37 bank 은행, 둑, 제방
+38 address 주소, 연설하다
+39 electricity 전기
+40 law 법
+41 campaign 군사행동, 유세
+42 sentence 문장, 판결하다
+43 heat 열, 가열하다
+44 circle 원
+45 reach 도착하다
+46 mix 섞다, 혼합하다
+47 excite 흥분시키다
+48 rise 오르다
+49 lead 이끌다
+50 enter 들어가다
+51 fill 채우다
+52 produce 생산하다
+53 cool 시원한, 식히다
+54 slow 느린, 더딘
+55 clear 깨끗한, 분명한
+56 false 거짓의
+57 national 국가의
+58 main 주요한
+59 almost 거의
+60 finally 마침내, 결국

@@ -1,0 +1,60 @@
+1 environment 환경
+2 pollution 오염, 공해
+3 lake 호수
+4 desert 사막, 버리다
+5 insect 곤충
+6 accident 사건, 사고, 우연
+7 college 대학
+8 exam 시험
+9 advice 충고
+10 hobby 취미
+11 form 형태, 형성하다
+12 mark 표시, 기록
+13 board 판자, 탑승하다
+14 post 게시하다
+15 laugh 웃다, 비웃다
+16 excuse 변명, 용서
+17 pass 지나가다, 통과하다
+18 drive 운전하다
+19 receive 받다, 수령하다
+20 kill 죽이다
+21 climb 오르다, 등산하다
+22 add 더하다, 추가하다
+23 fat 뚱뚱한, 지방
+24 dark 어두운
+25 whole 전체의
+26 afraid 두려운, 유감의
+27 physical 물리적인
+28 dangerous 위험한
+29 off 떨어져, 끊어져
+30 over ~위에, ~이상
+31 clerk 점원
+32 foot 발
+33 company 회사, 교제
+34 garage 차고
+35 palace 왕궁
+36 hole 구멍
+37 bill 지폐, 계산서, 법안
+38 seed 씨앗
+39 medicine 약, 의학
+40 luck 운, 행운
+41 meaning 의미
+42 volunteer 자원하다
+43 view 보다, 견해
+44 lie 눕다, ~에 있다
+45 act 행동하다
+46 pay 지불하다
+47 shout 외치다
+48 cross 교차하다
+49 seem 보이다
+50 invite 초대하다
+51 arrive 도착하다
+52 collect 모으다, 수집하다
+53 rich 부유한
+54 blind 눈이 먼
+55 heavy 무거운
+56 terrible 끔찍한
+57 strange 이상한, 낯선
+58 possible 가능한
+59 maybe 아마도
+60 ago ~전에

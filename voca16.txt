@@ -1,0 +1,60 @@
+1 heaven 하늘, 천국
+2 tenant 세입자
+3 helicopter 헬리콥터
+4 sand 모래
+5 castle 성
+6 kindness 친절
+7 concentration 집중, 농도
+8 mystery 불가사의
+9 battle 전투, 싸우다
+10 industry 산업
+11 chat 잡담하다
+12 puzzle 당혹하게 하다
+13 bloom 꽃, 개화하다
+14 advance 진보
+15 graduate 졸업하다
+16 predict 예측(예언)하다
+17 compare 비교하다
+18 complain 불평하다
+19 forgive 용서하다
+20 determine 결정하다
+21 exist 존재하다
+22 holy 신성한
+23 upper 위쪽의
+24 central 중심의
+25 normal 정상적인, 평범한
+26 similar 비슷한
+27 honest 정직한
+28 ashamed 부끄러운
+29 anymore 이제는, 더 이상
+30 besides 게다가, 더욱이
+31 generation 세대
+32 self 자아
+33 maxim 격언
+34 portrait 초상화
+35 fist 주먹
+36 darkness 어둠
+37 earthquake 지진
+38 weapon 무기
+39 charity 자선단체
+40 saying 속담
+41 issue 문제, 발행하다
+42 signal 신호를 보내다
+43 exchange 교환하다
+44 swallow 삼키다, 제비
+45 average 평균적인
+46 official 공식적인
+47 gray 화색, 회색의
+48 prefer 선호하다
+49 relax 쉬다
+50 reduce 줄이다
+51 bury 묻다
+52 shoot 쏘다
+53 yell 고함을 지르다
+54 powerful 강력한
+55 faithful 신뢰할만한
+56 creative 창의적인
+57 deaf 귀가 먼
+58 electronic 전자의
+59 nearly 거의
+60 happily 행복하게

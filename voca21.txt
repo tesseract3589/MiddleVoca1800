@@ -1,0 +1,60 @@
+1 merchant 상인
+2 heritage 유산
+3 organization 조직, 기관
+4 kindergarten 유치원
+5 management 관리, 경영
+6 operation 수술, 운영, 작동
+7 mission 임무
+8 means 수단, 방법
+9 payment 지불
+10 merit 가치, 장점
+11 mirror 거울
+12 ladder 사다리
+13 ingredient 재료
+14 index 지침, 색인, 검지
+15 behave 행동하다
+16 compete 경쟁하다
+17 argue 주장하다, 논쟁하다
+18 release 놓아주다, 배출하다
+19 pretend ~인 체하다
+20 conclude 결론짓다
+21 observe 관찰하다, 준수하다
+22 spicy 짜릿한, 통쾌한
+23 terrific 멋진, 빼어난
+24 steady 꾸준한
+25 spare 아끼다, 여분의
+26 unique 독특한
+27 unnecessary 불필요한
+28 ill 아픈
+29 underground 지하, 지하의
+30 sincerely 진심으로
+31 peer 동년배, 또래
+32 pressure 압박
+33 association 연합, 제휴
+34 playground 운동장, 놀이터
+35 pond 연못
+36 harbor 항구
+37 frame 틀, 구조, 골격
+38 hammer 망치
+39 expression 표현
+40 quality 질, 자질
+41 movement 움직임, 운동
+42 package 꾸러미
+43 survey 조사하다
+44 panic 당황, 공황
+45 sigh 한숨을 쉬다
+46 rinse 헹구다
+47 appeal 매력, 호소하다
+48 sweep 청소하다, 휩쓸다
+49 consist 구성되다, 있다
+50 unify 통합하다
+51 depress 우울하게 하다
+52 blame 비난하다(받다)
+53 smooth 부드러운
+54 wooden 나무의
+55 helpless 무기력한
+56 incredible 믿을 수 없는
+57 available 이용 가능한
+58 ancient 고대의
+59 recent 최근의
+60 thus 따라서, 이렇게

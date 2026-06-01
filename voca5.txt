@@ -1,0 +1,60 @@
+1 president 대통령
+2 diary 일기
+3 cartoon 만화
+4 meal 식사
+5 character 문자, 성격
+6 reason 이유
+7 ground 지면, 기반
+8 community 공동체
+9 glass 유리
+10 weight 무게
+11 control 통제하다
+12 step 단계
+13 matter 문제, 중요하다
+14 match 어울리다, 필적하다
+15 set 설치하다, 정하다
+16 catch 잡다
+17 hold 유지하다, 껴안다
+18 pick 줍다, 고르다
+19 teach 가르치다
+20 agree 동의하다
+21 invent 발명하다
+22 welcome 환영하다
+23 bright 밝은
+24 smart 영리한
+25 wise 현명한
+26 hungry 배고픈
+27 fine 훌륭한, 벌금
+28 pretty 예쁜, 매우
+29 still 여전히, 정지한
+30 later 나중에
+31 teenager 십대
+32 arm 팔, 무기, 무장하다
+33 skill 기술
+34 factory 공장
+35 prize 상, 상을 주다
+36 chance 기회, 가능성
+37 shape 모양, 형태
+38 difference 차이, 차별
+39 wall 벽
+40 contest 경연
+41 race 경주, 인종
+42 smell 냄새가 나다
+43 interest 흥미롭게 하다
+44 judge 판단하다
+45 cause 원인, 유발하다
+46 cover 덮다, 다루다
+47 travel 여행하다, 이동하다
+48 guess 추측하다
+49 finish 끝마치다
+50 wash 닦다
+51 introduce 소개하다, 도입하다
+52 hurt 상처를 주다(받다)
+53 tired 피곤한
+54 proud 거만한, 당당한
+55 dirty 더러운
+56 angry 화난
+57 modern 현대의
+58 useful 유용한
+59 soon 곧
+60 once 한때, 일단 ~하면

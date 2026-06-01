@@ -1,0 +1,60 @@
+1 hometown 고향
+2 yard 마당, 뜰
+3 grocery 식료품
+4 fairy 요정
+5 flag 깃발
+6 manner 방법, 예절
+7 noise 소음
+8 pain 고통
+9 danger 위험
+10 guide 안내하다
+11 coach 코치
+12 note 기록, 음표, 주목
+13 count 셈하다, 중요하다
+14 sail 항해하다
+15 promise 약속하다
+16 repeat 반복하다
+17 bake 굽다
+18 gather 모으다
+19 succeed 성공하다, 계승하다
+20 protect 보호하다
+21 advertise 광고하다
+22 disappear 사라지다
+23 electric 전기의, 전자의
+24 lovely 사랑스러운
+25 thin 마른, 가는
+26 round 둥근
+27 deep 깊은
+28 wide 넓은
+29 yet 아직
+30 quickly 빠르게
+31 couple 한 쌍
+32 honey 꿀
+33 tourist 관광객
+34 gate 문, 입구
+35 background 배경
+36 capital 수도, 자본
+37 valley 계곡
+38 direction 방향, 지침
+39 distance 거리
+40 behavior 행동
+41 object 물체, 대상
+42 dictionary 사전
+43 tear 눈물, 찢다
+44 honor 명예, 존경
+45 increase 증가하다
+46 bite 물다
+47 male 남성의
+48 native 토착의
+49 disappoint 실망시키다
+50 shine 빛나다
+51 fix 고치다, 고정하다
+52 pour 쏟아 붓다
+53 allow 허락하다
+54 prevent 예방하다, 막다
+55 certain 특정한
+56 mental 정신의
+57 comfortable 편안한
+58 expensive 비싼
+59 therefore 그러므로
+60 everywhere 어디서나

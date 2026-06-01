@@ -1,0 +1,60 @@
+1 agent 대리, 대행
+2 politics 정치학
+3 reality 현실
+4 relationship 관계
+5 role 역할
+6 theater 극장
+7 performance 실적, 공연
+8 cast 던지다
+9 reservation 예약, 보류
+10 sightseeing 관광
+11 path 길, 통로
+12 source 자원, 근원
+13 proof 증거
+14 term 용어, 기간
+15 net 그물
+16 trust 신뢰하다
+17 crash 충돌하다
+18 hatch 부화하다
+19 clap 박수치다
+20 announce 알리다, 고지하다
+21 represent 나타내다, 대표하다
+22 devote 바치다, 헌신하다
+23 peaceful 평화로운
+24 painful 고통스러운
+25 sharp 날카로운
+26 responsible 책임감이 있는
+27 lazy 게으른
+28 likely 가능성이 있는
+29 completely 완벽히, 완전히
+30 immediately 즉시
+31 architect 건축가
+32 narrator 해설자
+33 enemy 적
+34 throat 목, 성대
+35 illness 질병
+36 weed 잡초
+37 humor 유머
+38 volcano 화산
+39 kingdom 왕국
+40 attempt 시도하다
+41 award 수상(수여)하다
+42 broadcast 방송하다
+43 aid 돕다
+44 nod 끄덕이다
+45 escape 탈출하다
+46 envy 부러워하다
+47 measure 측정하다
+48 chief 우두머리, 주요한
+49 total 전체의
+50 worth 가치, 가치 있는
+51 embarrass 난처하게 하다
+52 erupt 붕괴하다
+53 perform 실행하다, 공연하다
+54 publish 출판하다
+55 silent 조용한
+56 silly 어리석은
+57 scary 무서운
+58 sore 아픈, 쑤시는
+59 bitter 쓰라린, 혹독한
+60 lately 요즈음, 최근

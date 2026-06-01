@@ -1,0 +1,60 @@
+1 wildlife 야생
+2 sunset 일몰, 해넘이
+3 horizon 지평선, 수평선
+4 steam 증기
+5 warmth 온기, 따뜻함
+6 statement 진술, 문장
+7 response 반응(대응)하다
+8 task 과제
+9 security 안전, 보안
+10 needle 바늘
+11 branch 가지, 분점
+12 thread 실
+13 row 줄, 열
+14 yawn 하품하다
+15 rub 문지르다
+16 wipe 닦다
+17 operate 운영하다, 수술하다
+18 contain 담다, 포함하다
+19 preserve 보존하다, 예약하다
+20 refuse 거절하다
+21 remind 상기시키다
+22 bother 괴롭히다
+23 tiny 미세한
+24 curly 곱슬머리의
+25 rapid 빠른
+26 shy 수줍은
+27 eastern 동쪽의
+28 violent 폭력적인
+29 worldwide 세계적인
+30 highly 매우
+31 dinosaur 공룡
+32 ruler 통치자, 지배자
+33 admiral 해군 장성, 제독
+34 liberty 자유
+35 unification 통합, 단일화
+36 trial 시도, 재판
+37 treatment 치료
+38 shelter 은신처, 피난하다
+39 orphanage 고아원
+40 item 물품
+41 firewood 땔감
+42 dessert 디저트, 후식
+43 range 범위
+44 rumor 소문
+45 vehicle 차량, 탈것, 수단
+46 sew 꿰매다
+47 associate 관련짓다, 연상하다
+48 identify 식별(분간)하다
+49 mention 언급하다
+50 establish 세우다, 정하다
+51 unite 결합하다
+52 frustrate 좌절시키다
+53 blond 금발의
+54 cheerful 유쾌한
+55 careless 부주의한
+56 dull 무딘, 우둔한
+57 disgusting 역겨운
+58 willing 자발적인
+59 golden 황금의
+60 apart 떨어져서

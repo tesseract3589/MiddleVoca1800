@@ -1,0 +1,60 @@
+1 ancestor 조상
+2 chairperson 의장
+3 customer 손님, 고객
+4 astronaut 우주비행사
+5 dynasty 왕조
+6 furniture 가구
+7 drug 약
+8 greenhouse 온실
+9 harmony 조화
+10 dirt 먼지
+11 shot 주사
+12 curve 휘어진, 굴곡진
+13 stuff 물건, 속을 채우다
+14 pack 싸다, 포장하다
+15 spill 쏟다, 엎지르다
+16 debate 토론, 토론하다
+17 whisper 속삭이다
+18 lay 눕히다, ~에 두다
+19 pardon 용서, 용서하다
+20 beg 간청(구걸)하다
+21 relate 관련시키다
+22 intelligent 지적인
+23 eager 열망하는
+24 disabled 불구의
+25 homeless 집 없는
+26 harmful 해로운
+27 lifelong 평생에 걸친
+28 nervous 초조한
+29 seldom 거의 ~아닌
+30 somewhere 어딘가
+31 birth 출생, 탄생
+32 childhood 어린 시절
+33 education 교육
+34 emotion 감정
+35 attitude 태도
+36 courage 용기
+37 condition 상태, 조건
+38 fever 열
+39 conversation 대화
+40 adventure 모험
+41 triangle 삼각형
+42 bulb 전구
+43 attack 공격하다
+44 cough 기침, 기침하다
+45 flow 흐르다
+46 search 조사(검색)하다
+47 original 본래의, 참신한
+48 opposite 정반대의
+49 jog 뛰다, 달리다
+50 scan 조사하다
+51 describe 묘사하다
+52 freeze 얼다
+53 remove 제거하다
+54 single 단 하나의
+55 positive 긍정적인
+56 ugly 추한
+57 northern 북쪽의
+58 nearby 근처에
+59 upside down 거꾸로
+60 downtown 시내

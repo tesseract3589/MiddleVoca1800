@@ -1,0 +1,60 @@
+1 library 도서관, 서재
+2 museum 박물관
+3 ocean 바다, 대양
+4 bone 뼈
+5 bath 목욕하다
+6 pity 유감
+7 proverb 속담
+8 product 제품
+9 invention 발명
+10 technology 기술
+11 trash 쓰레기
+12 moment 순간
+13 date 날짜
+14 taste 맛이 나다
+15 balance 균형
+16 ring 울리다
+17 share 나누다, 공유하다
+18 return 돌아오다, 반납하다
+19 lift 들어 올리다
+20 raise 올리다, 기르다
+21 explain 설명하다
+22 marry 결혼하다
+23 exciting 흥미로운
+24 common 공통의, 흔한
+25 global 세계의
+26 regular 규칙적인
+27 serious 심각한, 진지한
+28 fresh 신선한
+29 probably 아마도
+30 else 그 밖의
+31 peace 평화
+32 beauty 아름다움
+33 sight 시각, 시력, 견해
+34 nation 국가
+35 foreigner 외국인
+36 lend 빌리다
+37 magazine 잡지
+38 storm 폭풍
+39 straw 빨대, 지푸라기
+40 disease 질병
+41 respect 존중하다
+42 reply 대답하다
+43 record 기록하다
+44 cheer 응원하다
+45 shake 흔들다
+46 key 열쇠, 핵심
+47 square 사각형
+48 wake 깨어나다
+49 discover 발견하다
+50 solve 풀다, 해결하다
+51 continue 계속하다
+52 burn 타다, 태우다
+53 simple 간단한, 검소한
+54 quiet 조용한
+55 traditional 전통적인
+56 international 국제적인
+57 huge 거대한, 엄청난
+58 amazing 놀라운
+59 instead 대신에
+60 suddenly 갑자기

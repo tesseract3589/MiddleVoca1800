@@ -1,0 +1,60 @@
+1 bird 새
+2 restaurant 식당
+3 trip 여행, 출장
+4 vacation 휴가, 방학
+5 space 공간, 우주
+6 street 거리
+7 side 측, 입장
+8 paper 종이
+9 newspaper 신문
+10 face 얼굴, 마주하다
+11 mind 마음, 꺼리다
+12 change 변화하다
+13 visit 방문하다
+14 start 시작하다
+15 watch 주시하다
+16 light 빛, 가벼운
+17 present 현재, 선물
+18 middle 중간의
+19 favorite 좋아하는
+20 enjoy 즐기다
+21 win 이기다, 획득하다
+22 understand 이해하다
+23 warm 따뜻한
+24 clean 청소하다
+25 own 자신의, 소유하다
+26 interesting 흥미로운
+27 famous 유명한
+28 special 특별한
+29 fast 빠른
+30 only 오직, 유일한
+31 nature 자연, 본성
+32 state 상태, 진술하다
+33 island 섬
+34 group 무리, 무리 짓다
+35 soldier 군인
+36 habit 습관
+37 culture 문화
+38 history 역사
+39 information 정보
+40 advertisement 광고
+41 science 과학
+42 war 전쟁
+43 store 상점, 저장하다
+44 sound 소리, 들리다
+45 point 핵심, 가리키다
+46 land 착륙하다
+47 turn 차례, 회전하다
+48 fly 날다, 파리
+49 begin 시작하다
+50 grow 자라다
+51 believe 믿다
+52 worry 걱정하다
+53 save 구하다, 저장하다
+54 please 만족시키다
+55 easy 쉬운
+56 poor 가난한, 어설픈
+57 such 그러한, 그렇게
+58 just 단지, 정당한
+59 back 뒤, 등
+60 always 항상

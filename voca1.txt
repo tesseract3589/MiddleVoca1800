@@ -1,0 +1,61 @@
+1 person 사람
+2 life 삶, 생명
+3 job 일, 직업
+4 country 국가, 시골
+5 earth 지구, 흙
+6 problem 문제
+7 way 길, 방법
+8 language 언어
+9 story 이야기, 층
+10 lottery 복권
+11 name 이름
+12 hand 손, 건네다
+13 place 장소
+14 practice 연습, 실천
+15 work 일, 작품
+16 use 사용하다
+17 kind 친절한, 종류
+18 fun 재미
+19 future 미래
+20 have 가지다
+21 make 만들다
+22 let ~하게 해주다
+23 get 얻다, 취하다
+24 take 가져가다
+25 different 다른, 다양한
+26 important 중요한
+27 right 옳은, 권리
+28 sure 확실한
+29 well 잘, 우물
+30 hard 딱딱한, 열심히
+31 clothes 천, 옷감
+32 movie 영화
+33 activity 활동
+34 example 예, 사례
+35 dialogue 대화
+36 letter 편지
+37 fire 불, 해고하다
+38 minute 분
+39 part 부분, 일부
+40 plan 계획
+41 plant 식물, 심다
+42 park 공원, 주차하다
+43 call 부르다, 전화하다
+44 try 노력하다
+45 need 필요로 하다
+46 keep 지키다, 유지하다
+47 listen 듣다
+48 find 찾다, 발견하다
+49 learn 배우다
+50 live 살다
+51 mean 의미하다
+52 last 지속하다
+53 any 어떤
+54 each 각각의
+55 other 다른
+56 another 또 다른
+57 same 같은
+58 too 또한, 너무
+59 also 또한
+60 really 정말로
+

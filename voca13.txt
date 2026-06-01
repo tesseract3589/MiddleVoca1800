@@ -1,0 +1,60 @@
+1 wood 나무, 목재
+2 cave 동굴
+3 tomb 무덤
+4 tool 도구
+5 satellite 인공위성
+6 communication 의사소통
+7 wealth 부, 재산
+8 attention 관심
+9 miracle 기적
+10 stream 시내, 냇물
+11 wave 파도, 파장
+12 value 가치, 귀중히 여기다
+13 beat 물리치다
+14 support 지지(지탱)하다
+15 chemical 화학의
+16 female 여성의
+17 fair 공정한
+18 respond 반응(응답)하다
+19 deliver 전달(배달)하다
+20 fold 접다
+21 include 포함하다
+22 earn 벌다, 얻다
+23 bet 내기하다, 단언하다
+24 calm 고요한, 침착한
+25 direct 지시하다, 직접적인
+26 sweet 달콤한
+27 thick 두꺼운
+28 abstract 추상적인
+29 someday 어느 날
+30 nowadays 요즘
+31 lawyer 변호사
+32 officer 경관
+33 university 대학교
+34 level 수준
+35 growth 성장
+36 journey 여행
+37 gun 총
+38 emergency 응급상황
+39 case 사례, 경우
+40 difficulty 어려움
+41 addition 추가, 첨가
+42 credit 신용, 학점, 인정
+43 fool 바보, 속이다
+44 harvest 수확하다
+45 figure 숫자, 모양, 인물
+46 tie 묶다, 유대
+47 boil 끓이다
+48 borrow 빌리다
+49 belong 속하다
+50 communicate 소통하다, 전하다
+51 confuse 혼동시키다
+52 survive 생존하다
+53 handsome 잘생긴
+54 gentle 정중한
+55 mad 미친
+56 merry 기쁜
+57 noisy 시끄러운
+58 scientific 과학적인
+59 mostly 대게
+60 anywhere 어디서나

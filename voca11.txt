@@ -1,0 +1,60 @@
+1 action 행동, 조치
+2 talent 재능
+3 choice 선택
+4 slave 노예
+5 situation 상황
+6 pride 자부심
+7 tip 조언, 끝부분
+8 stair 계단
+9 soil 흙, 토양
+10 master 주인, 숙달하다
+11 suit 소송, 적합하다
+12 notice 알아채다
+13 bow 절하다
+14 rush 돌진하다
+15 adult 성인
+16 principal 주요한, 교장
+17 folk 사람들, 평민
+18 material 물질적인
+19 standard 기준, 표준
+20 stiff 뻣뻣한
+21 accept 받아들이다
+22 obey 복종하다
+23 hide 숨기다
+24 basic 기본적인
+25 local 지역의
+26 boring 지루한
+27 weak 약한
+28 quick 빠른
+29 easily 쉽게
+30 abroad 외국에, 해외로
+31 hero 영웅
+32 ability 능력
+33 knowledge 지식
+34 technique 기술
+35 floor 층, 바닥
+36 cancer 암
+37 diet 식단, 다이어트
+38 garbage 쓰레기
+39 cash 현금
+40 countryside 시골, 교외
+41 route 길, 경로
+42 amount 양
+43 score 점수, 득점하다
+44 challenge 도전, 고난
+45 cure 치료하다
+46 appear 나타나다
+47 spread 퍼지다
+48 hunt 사냥하다
+49 destroy 파괴하다
+50 consider 여기다, 고려하다
+51 expect 예상하다
+52 suggest 제안하다
+53 cultural 문화의
+54 social 사회의
+55 elderly 나이든, 구식의
+56 unhappy 불행한
+57 crazy 미친, 열광한
+58 alive 살아있는
+59 outside 외곽, 밖
+60 quite 꽤, 매우

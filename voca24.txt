@@ -1,0 +1,60 @@
+1 novel 소설, 참신한
+2 grave 무덤, 암울한
+3 crime 범죄
+4 prison 감옥, 감금하다
+5 blanket 담요, 덮다
+6 skin 피부
+7 instance 예, 사례
+8 element 요소, 성분
+9 dozen 12개
+10 honesty 정직
+11 duty 의무
+12 failure 실패
+13 rate 비율
+14 progress 진행, 진보
+15 trade 거래하다
+16 doubt 의심, 의심하다
+17 march 행진하다
+18 delay 지연시키다
+19 satisfy 만족시키다
+20 misunderstand 오해하다
+21 scold 꾸짖다
+22 apply 적용하다
+23 drown 익사하다
+24 broad 넓은, 광범위한
+25 cruel 잔인한
+26 private 사적인
+27 urgent 긴급한, 급박한
+28 military 군, 군의
+29 historical 역사적인
+30 fully 충분히, 완전히
+31 universe 우주
+32 laughter 웃음
+33 knee 무릎
+34 gym 체육관
+35 equipment 장비, 설비
+36 rope 밧줄
+37 refrigerator 냉장고
+38 production 생산
+39 tradition 전통
+40 religion 종교
+41 semester 학기
+42 course 과정, 강의
+43 flea 벼룩
+44 plug 전기를 연결하다
+45 ache 아픔
+46 handle 다루다
+47 pause 멈추다
+48 admire 감탄(칭찬)하다
+49 apologize 사과하다
+50 threaten 위협하다
+51 arrest 체포하다
+52 select 선택하다
+53 narrow 좁은, 좁히다
+54 attractive 매력적인
+55 awful 두려운, 불쾌한
+56 casual 격식 없는
+57 capable 유능한
+58 absent 결석의
+59 alike 같은, 마찬가지의
+60 otherwise 그렇지 않으면

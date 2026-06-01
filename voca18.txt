@@ -1,0 +1,60 @@
+1 thief 도둑
+2 lifetime 일생
+3 career 직업, 경력
+4 fitness 건강, 적당
+5 economy 경제
+6 fur 모피, 털
+7 engine 엔진
+8 balloon 풍선
+9 border 국경, 경계
+10 disaster 재앙
+11 forecast 예상(예보)하다
+12 quarrel 싸움, 다툼
+13 harm 해를 입히다
+14 glue 접착제
+15 regard 간주하다
+16 sink 가라앉다
+17 characteristic 특성 있는, 특성
+18 professional 전문적인
+19 encourage 격려하다
+20 reflect 반사(반영)하다
+21 slide 미끄러지다
+22 stretch 쭉 뻗다
+23 steal 훔치다
+24 comic 희극의, 만화의
+25 anxious 걱정하는, 열망하는
+26 asleep 잠든
+27 effective 효과적인
+28 due to ~때문에
+29 actually 실제로
+30 rather 오히려, 다소
+31 manager 관리자
+32 shore 해안
+33 sunrise 일출, 해돋이
+34 lighting 조명
+35 wire 배선, 배선하다
+36 stage 무대
+37 zone 지역
+38 height 키, 높이
+39 prediction 예측, 예언
+40 marriage 결혼
+41 period 기간, 마침표
+42 claim 주장하다
+43 deal 거래
+44 limit 제한하다
+45 tap into 활용하다
+46 spray 뿌리다
+47 weigh 무게가 나가다
+48 pray 기도하다
+49 greet 인사하다
+50 chew 씹다
+51 attract 끌어들이다
+52 overcome 극복하다
+53 salty 짠
+54 southern 남쪽의
+55 curious 호기심이 있는
+56 humorous 유머 있는
+57 foolish 멍청한
+58 greedy 탐욕스러운
+59 valuable 귀중한
+60 certainly 분명히

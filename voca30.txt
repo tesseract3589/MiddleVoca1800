@@ -1,0 +1,60 @@
+1 pupil 제자, 동공
+2 servant 하인, 시종
+3 profession 직업, 선언
+4 occupation 직업, 거주
+5 surgery 수술
+6 instruction 지시, 교육
+7 principle 원리, 원칙
+8 revolution 혁명
+9 authority 권위, 공공기관
+10 rank 등급, 평가하다
+11 property 재산
+12 advantage 유리, 이익
+13 affair 일, 사건
+14 occasion 경우, 근거
+15 propose 제안하다
+16 approve 승인하다
+17 admit 인정하다
+18 conduct 지휘(실행)하다
+19 reserve 보존(예약)하다
+20 reveal 드러내다
+21 extend 확장하다
+22 involve 포함하다
+23 definite 뚜렷한, 명백한
+24 significant 중요한, 상당한
+25 vital 생명의, 중대한
+26 extreme 극단적인
+27 academic 학구적인
+28 guilty 유죄의
+29 conscious 의식적인
+30 generally 일반적으로
+31 mankind 인류
+32 poet 시인
+33 detective 탐정
+34 consumer 소비자
+35 chef 요리사
+36 wage 임금, 급료
+37 steel 강철
+38 device 장치, 설비
+39 pill 알약
+40 ceiling 천장
+41 aisle 통로, 복도
+42 appearance 외모
+43 destination 목적지
+44 sweat 땀을 흘리다
+45 switch 바꾸다, 전환하다
+46 grab 움켜쥐다
+47 plain 평범한, 평원
+48 giant 거인, 거대한
+49 found 설립하다, 세우다
+50 seek 찾다, 구하다
+51 fog 안개
+52 swing 흔들다, 그네
+53 cancel 취소하다
+54 avoid 회피하다
+55 permanent 영구적인
+56 temporary 일시적인
+57 steep 가파른
+58 logical 논리적인
+59 ridiculous 우스운
+60 stairway 계단

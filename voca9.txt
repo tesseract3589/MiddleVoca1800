@@ -1,0 +1,60 @@
+1 bridge 다리, 연결하다
+2 ghost 유령
+3 scene 장면
+4 effort 노력
+5 wisdom 지혜
+6 fault 실수, 잘못
+7 flight 비행, 비행하다
+8 zoo 동물원
+9 candle 초, 양초
+10 bottom 바닥
+11 mistake 실수
+12 trouble 문제, 골칫거리
+13 bat 방망이, 치다
+14 blow 불다, 타격하다
+15 flood 넘쳐흐르다, 홍수
+16 hurry 서두르다
+17 treat 다루다, 대접하다
+18 express 표현하다
+19 breathe 호흡하다
+20 hate 미워하다
+21 create 창조하다, 만들다
+22 divide 나누다, 분할하다
+23 soft 부드러운
+24 empty 텅 빈, 비우다
+25 perfect 완벽한
+26 successful 성공적인
+27 everyday 매일
+28 low 낮은
+29 alone 혼자
+30 inside 내부, 내부의
+31 creature 생물, 생명체
+32 police 경찰
+33 army 군인
+34 society 사회
+35 fan 애호가, 부채
+36 wheel 바퀴
+37 pair 쌍, 짝
+38 joy 즐거움
+39 memory 기억, 기억력
+40 recipe 조리법
+41 kid 아이
+42 smoke 연기
+43 favor 애호, 선호
+44 trick 속임수, 비결
+45 experiment 실험
+46 drop 방울, 떨어뜨리다
+47 press 누르다, 압박하다
+48 stick 막대기, 찌르다
+49 roll 구르다
+50 serve 제공하다
+51 improve 개선하다, 나아지다
+52 realize 깨닫다, 실현하다
+53 dry 마른, 건조한
+54 complete 완성하다
+55 lucky 운 좋은
+56 natural 자연의, 당연한
+57 friendly 친절한, 친근한
+58 cute 귀여운
+59 already 이미
+60 especially 특히

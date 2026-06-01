@@ -1,0 +1,60 @@
+1 village 마을
+2 forest 숲
+3 leaf 나뭇잎
+4 vegetable 채소
+5 office 사무실
+6 machine 기계
+7 area 지역, 영역
+8 piece 조각
+9 grace 은혜, 은총
+10 spring 봄, 샘물, 튀다
+11 rock 바위, 흔들다
+12 line 선
+13 exercise 운동하다
+14 end 끝, 목적
+15 cook 요리하다
+16 fall 떨어지다, 가을
+17 front 앞, 전면
+18 second 두 번째, 초
+19 cold 추운, 감기
+20 happen 일어나다
+21 leave 떠나다, 방치하다
+22 remember 기억하다
+23 wear 입다, 닳다
+24 move 움직이다
+25 send 보내다
+26 large 큰, 거대한
+27 hot 뜨거운, 매운
+28 early 일찍
+29 often 종종, 자주
+30 sometimes 때때로
+31 neighbor 이웃, 동네
+32 pet 애완동물
+33 bottle 병
+34 art 예술, 기술
+35 poem 시
+36 subject 과목, 주제
+37 weekend 주말
+38 price 왕자
+39 custom 관습
+40 fact 사실
+41 rule 규칙, 통치하다
+42 break 깨다, 휴식
+43 check 확인하다
+44 stay 머물다
+45 bring 가져오다
+46 build 짓다, 축적하다
+47 join 합류하다
+48 lose 지다, 길을 잃다
+49 die 죽다
+50 half 절반의
+51 few 거의 없는
+52 both 둘 다
+53 sick 아픈
+54 busy 바쁜
+55 real 실제의, 진정한
+56 wrong 잘못된
+57 most 대부분의
+58 late 늦은
+59 together 함께
+60 even 심지어, 평평한

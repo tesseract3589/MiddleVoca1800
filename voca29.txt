@@ -1,0 +1,60 @@
+1 democracy 민주주의
+2 justice 정의
+3 faith 신념
+4 glory 영광
+5 apology 사과(사죄)하다
+6 crisis 위기
+7 debt 빚, 채무
+8 gap 차이, 간격
+9 angle 각도, 관점
+10 theory 이론
+11 nest 둥지
+12 labor 노동, 노력
+13 remark 비평하다
+14 comfort 편리, 편안
+15 approach 접근하다, 접근방식
+16 struggle 애쓰다, 노력하다
+17 content 내용
+18 acid 산
+19 differ 다르다
+20 deserve ~해 마땅하다
+21 permit 허가하다
+22 forbid 금지하다
+23 reject 거부하다
+24 pure 순수한
+25 dumb 벙어리의, 우둔한
+26 slight 약간의
+27 particular 특별한
+28 financial 재정의
+29 be fond of ~를 좋아하다
+30 aboard 배(비행기)에 탄
+31 identity 동일, 정체, 신원
+32 devil 악마, 악마의
+33 spectator 관객, 구경꾼
+34 recreation 오락, 기분전환
+35 income 수입
+36 tax 세금
+37 fee 요금
+38 fuel 연료
+39 burden 짐, 부담
+40 selection 선택, 선별
+41 sum 총계, 요약하다
+42 profit 이윤
+43 process 과정, 절차, 가공하다
+44 exit 출구, 나가다
+45 purchase 구매하다
+46 defeat 물리치다, 패배시키다
+47 persuade 설득하다
+48 emphasize 강조하다
+49 accuse 고소(비난)하다
+50 investigate 조사하다
+51 distinguish 구별하다
+52 adopt 채택(입양)하다
+53 usual 평범한, 보통의
+54 primary 주요한, 제1의
+55 sufficient 충분한
+56 accurate 정확한
+57 complicated 복잡한
+58 artificial 인공의
+59 tropical 열대의
+60 hardly 거의 ~아닌

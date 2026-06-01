@@ -1,0 +1,60 @@
+1 government 정부
+2 stomach 위, 위장
+3 flour 밀가루
+4 doll 인형
+5 cyberspace 우주공간
+6 strength 힘, 체력
+7 will ~할 것이다, 유언장
+8 development 발전, 개발
+9 engineering 공학
+10 edge 가장자리, 우세
+11 pattern 모범, 모형, 양식
+12 alarm 경보, 경계
+13 dot 점
+14 cost 비용
+15 focus 초점, 집중
+16 shock 충격을 주다
+17 reward 보답(보상)하다
+18 impress 인상을 주다
+19 replace 교체(대체)하다
+20 fail 실패하다
+21 skip 건너뛰다
+22 necessary 필수적인
+23 elementary 기본의, 초등의
+24 fantastic 환상적인
+25 tasty 맛있는
+26 flat 평평한
+27 tough 거친, 강인한
+28 outstanding 탁월한
+29 forward 앞으로
+30 badly 심하게, 나쁘게
+31 climate 기후
+32 degree 정도, 학위
+33 article 기사, 물품
+34 metal 금속의
+35 monster 괴물
+36 treasure 보물, 귀중히 여기다
+37 symbol 상징
+38 ceremony 의식
+39 congratulation 축하
+40 breath 호흡
+41 death 죽음
+42 headache 두통
+43 muscle 근육
+44 base 기본, 기초
+45 lock 잠그다
+46 dislike 싫어하다
+47 feed 먹이를 주다
+48 rent 임대하다
+49 suffer 고통을 주다
+50 hang 매달다
+51 wrap 포장하다
+52 pleasant 유쾌한
+53 lonely 외로운
+54 thirsty 목마른
+55 polite 정중한
+56 rude 무례한
+57 excellent 훌륭한
+58 overweight 과체중의
+59 perhaps 아마도
+60 twice 두 번, 두 배
