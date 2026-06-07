@@ -1,2 +1,3 @@
 # MiddleVoca1800
-Middle School Vocabulary
+간단한 중학 영단어 암기 프로그램. 단어 1800개 수록
+단어장 voca1 ~ voca30(하나당 60단어), 뒤로 갈수록 난이도 어려워짐
