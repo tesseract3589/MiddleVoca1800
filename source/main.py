@@ -13,7 +13,7 @@ root.geometry("800x600")
 text_area = ScrolledText(
     root,
     width=70,
-    height=25,
+    height=20,
     font=("맑은 고딕", 11)
 )
 
